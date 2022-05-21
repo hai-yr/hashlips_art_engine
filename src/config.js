@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "Solar Sasquatch Squad";
 const description = "Planet Looks Rare";
-const baseUri = "ipfs://NewUriToReplace";
+const baseUri = "ipfs://QmRGJgZuEQWXkrxkuGToYqW2CpqpsvPVsCtwUGcgjJRpZj";
 
 const solanaMetadata = {
   symbol: "YC",
